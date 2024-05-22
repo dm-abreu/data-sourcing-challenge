@@ -1,4 +1,4 @@
-# data-sourcing-challenge aka Movie Review Data Preparation for Recommendation System
+# Data-Sourcing-Challenge aka Movie Review Data Preparation for Recommendation System
 
 ## Background
 The task involves preparing data for a recommendation system that aids users in discovering movie reviews and related films. Data will be sourced from The New York Times API and The Movie Database, merged, and later utilized for natural language processing.
